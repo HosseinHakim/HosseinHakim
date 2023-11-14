@@ -1,9 +1,8 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HosseinHakim/HosseinHakim/assets/150718871/6b62291e-40ef-4739-a28e-57323f038382">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/HosseinHakim/HosseinHakim/assets/150718871/6b62291e-40ef-4739-a28e-57323f038382">
- <img alt="Me Standing In The Road- By Ehsan" src=""https://github.com/HosseinHakim/HosseinHakim/assets/150718871/6b62291e-40ef-4739-a28e-57323f038382">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HosseinHakim/HosseinHakim/assets/150718871/710feea6-0803-4e51-a088-83c08cf98aac">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/HosseinHakim/HosseinHakim/assets/150718871/710feea6-0803-4e51-a088-83c08cf98aac">
+ <img alt="Black and white Winter- Background" src=""https://github.com/HosseinHakim/HosseinHakim/assets/150718871/710feea6-0803-4e51-a088-83c08cf98aac">
 </picture>
-
 
 # ▣  Hi, I’m [Hossein Hakimzadeh](https://github.com/HosseinHakim)
 - ⫻ I’m interested in UI and UX
