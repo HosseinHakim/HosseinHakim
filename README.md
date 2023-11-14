@@ -9,10 +9,8 @@
 - ⇛ I’m currently learning About GitHub and codeing
 - ⫎ I’m looking to collaborate on naking a new site 
 ### ⇱ How to reach me:
-   -  1.  Outlook: **hossein.hakimzadeh@outlook.com**
-   -  2. Gmail: **hossein.hakimzadeh@gmail.com**
-   -  3. [Dicord](https://discord.com/users/1096397829947277393)
-   -  4. [X](https://twitter.com/HHakimzadeh)
+   -  1. [Dicord](https://discord.com/users/1096397829947277393)
+   -  2. [X](https://twitter.com/HHakimzadeh)
     
 
 
